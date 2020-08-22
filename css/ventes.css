@@ -1,0 +1,43 @@
+h5{
+	font-family: Bradley Hand ITC;
+	text-align: right;
+}
+.col-md-8{
+	text-align: center;
+}
+.col-md-6{
+	text-align: justify;
+}
+.ul{
+	text-decoration: none;
+}
+.fa{
+	padding: 0px 8px 11px 14px;
+}
+.col-md-12{
+	text-align: center;
+	text-decoration-line: underline;
+  	text-decoration-style: double;
+}
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #dddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #b366ff;}
+
+#customers tr:hover {background-color: #dddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #cce0ff;
+  color: white;
+}

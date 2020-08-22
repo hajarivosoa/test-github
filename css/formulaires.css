@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+}
+
+h5{
+	font-family: Bradley Hand ITC;
+	text-align: right;
+}
+.col-md-8{
+	text-align: center;
+}
+.col-md-6{
+	text-align: justify;
+}
+.ul{
+	text-decoration: none;
+}
+.fa{
+	padding: 0px 8px 11px 14px;
+}
+.col-md-12{
+	text-align: center;
+	text-decoration-line: underline;
+  	text-decoration-style: double;
+}

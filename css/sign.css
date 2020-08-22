@@ -1,0 +1,25 @@
+input{
+	text-align: center;
+	margin: 5px 0px 4px 0px;
+}
+body{
+	text-align: center;
+}
+.cadre{
+	border:2px solid black;
+	border-radius: 5px;
+	box-shadow: 0 8px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.ombre{
+	box-shadow: 0px 3px #ffff99;
+}
+.lune{
+	background-color:  #ebebe0;
+}
+p{
+	text-align: center;
+	background-color: #ff5c33;
+}
+.row{
+	padding-top: 50px;
+}
